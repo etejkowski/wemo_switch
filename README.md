@@ -5,7 +5,7 @@ This example is based on code created by ceemjay (info@mk437.cm), based on work 
 
 Instructions:
 
-1. Place the wemo_switch folder in a readable folder of your web server. 
+1. Place the wemo_switch folder in a readable folder of your local web server. 
 2. Open the file named index.php and change the IP address within to the fixed IP address of your Wemo Switch.
 3. Using the terminal, navigate to the "scripts" folder and change the permissions of each file within the script folder to 755, like this:
  
